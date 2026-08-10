@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+npm-debug.log*
+.DS_Store
+coverage/
+
+# Local-only reference documentation
+ARCHITECTURE.md
+BLOG-OUTLINE.md
+PROJECT.md
+PROJECT-SUMMARY.md

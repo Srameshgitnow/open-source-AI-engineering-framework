@@ -75,4 +75,3 @@ This framework is intentionally scaffolded so it can grow into a fuller AI appli
 - [BLOG-OUTLINE.md](BLOG-OUTLINE.md)
 - [PROJECT.md](PROJECT.md)
 - [PROJECT-SUMMARY.md](PROJECT-SUMMARY.md)
-

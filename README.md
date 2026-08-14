@@ -1,5 +1,7 @@
 # Open-Source AI Engineering Framework
 
+![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)
+
 This repository is a modular Node.js starter framework for building AI-enabled applications. It provides a clean foundation for routing, authentication, prompt management, agent workflows, and future LLM/vector database integrations.
 
 ## What is included
@@ -75,3 +77,5 @@ This framework is intentionally scaffolded so it can grow into a fuller AI appli
 - [BLOG-OUTLINE.md](BLOG-OUTLINE.md)
 - [PROJECT.md](PROJECT.md)
 - [PROJECT-SUMMARY.md](PROJECT-SUMMARY.md)
+
+If you find this project useful, please consider giving it a ⭐ on GitHub — it helps others discover the repository.

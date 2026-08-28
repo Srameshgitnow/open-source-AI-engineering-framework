@@ -1,15 +1,40 @@
 {
-  "name": "ws",
+  "name": "open-source-ai-engineering-framework",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Open-source AI engineering framework for building Node.js AI applications, chatbot systems, prompt workflows, agent architectures, and LLM-powered products.",
+  "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "node --test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "ai",
+    "open-source",
+    "nodejs",
+    "javascript",
+    "llm",
+    "agent-framework",
+    "ai-engineering",
+    "chatbot",
+    "prompt-engineering",
+    "generative-ai",
+    "vector-search",
+    "observability",
+    "backend",
+    "framework",
+    "starter-template",
+    "github-stars"
+  ],
+  "author": "Open Source AI Engineering Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OWNER/REPO.git"
+  },
+  "homepage": "https://github.com/OWNER/REPO#readme",
+  "bugs": {
+    "url": "https://github.com/OWNER/REPO/issues"
+  },
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.4.2",
